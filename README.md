@@ -3,9 +3,6 @@ Hi, I'm Digant Sharma 🌻, a front-end developer  with Web design skills who is
 Languages
 <code><img height="20"
 src="https://raw.githubusercontent.com/digantsharma1998/digantsharma1998.github.io/main/CSS3.png"></code>
-Git
-
 <code><img height="20"
-
-sre="https://raw.githubusercontent.com/github/explore/80688e429a7 d4ef2fcale82350fe8e3517d3494
+src="https://raw.githubusercontent.com/github/explore/80688e429a7 d4ef2fcale82350fe8e3517d3494
 I d/topics/git/git.png"></code>
