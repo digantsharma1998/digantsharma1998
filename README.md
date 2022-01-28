@@ -4,5 +4,4 @@ Languages
 <code><img height="20"
 src="https://raw.githubusercontent.com/digantsharma1998/digantsharma1998.github.io/main/CSS3.png"></code>
 <code><img height="20"
-src="https://raw.githubusercontent.com/github/explore/80688e429a7 d4ef2fcale82350fe8e3517d3494
-I d/topics/git/git.png"></code>
+src="https://raw.githubusercontent.com/digantsharma1998/digantsharma1998.github.io/main/JS.png"></code>
