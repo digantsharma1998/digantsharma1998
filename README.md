@@ -5,3 +5,9 @@ Languages
 src="https://raw.githubusercontent.com/digantsharma1998/digantsharma1998.github.io/main/CSS3.png"></code>
 <code><img height="20"
 src="https://raw.githubusercontent.com/digantsharma1998/digantsharma1998.github.io/main/JS.png"></code>
+<code><img height="20"
+src="https://raw.githubusercontent.com/digantsharma1998/digantsharma1998.github.io/main/django.png"></code>
+<code><img height="20"
+src="https://raw.githubusercontent.com/digantsharma1998/digantsharma1998.github.io/main/html5.png"></code>
+<code><img height="20"
+src="https://raw.githubusercontent.com/digantsharma1998/digantsharma1998.github.io/main/react.png"></code>
