@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @digantsharma1998
-- 👀 I’m interested in @python
-- 🌱 I’m currently learning @manualtesting.
-- 💞️ I’m looking to collaborate on guthub
-- 📫 How to reach me ...
-
-<!---
-digantsharma1998/digantsharma1998 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I'm Digant Sharma 🌻, a front-end developer  with Web design skills who is dedicated and conscientious with a great passion for technology and software development. Always keen to learn new things with a positive approach. I love to build webpages and develop them. I strongly believe a deep user understanding leads to the most innovative products that can create a lot of impact on people's lives.
